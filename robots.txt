@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Sitemap: https://fky2181.github.io/caidan-jiepou/sitemap.xml

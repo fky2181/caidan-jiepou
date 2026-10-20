@@ -1,0 +1,22 @@
+/* Hallmark · pre-emit critique: P4 H4 E4 S5 R5 V4
+ * Existing Human Atlas design · additive learning workspace · restrained blue-green */
+:root {
+ --font-study: Inter, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+ --color-study-paper: oklch(99% .002 210);
+ --color-study-soft: oklch(96% .008 200);
+ --color-study-ink: oklch(29% .025 220);
+ --color-study-muted: oklch(49% .021 220);
+ --color-study-accent: oklch(39% .065 186);
+ --color-study-accent-soft: oklch(94% .025 180);
+ --color-study-rule: oklch(89% .012 210);
+ --color-study-error: oklch(44% .14 28);
+ --color-study-success: oklch(39% .09 155);
+ --color-study-bone: oklch(49% .07 75);
+ --color-study-muscle: oklch(47% .12 35);
+ --color-study-nerve: oklch(46% .09 95);
+ --color-study-shadow: oklch(29% .025 220 / .07);
+ --space-xs:4px; --space-sm:8px; --space-md:12px; --space-lg:16px; --space-xl:24px;
+ --radius-study:14px; --radius-control:9px;
+ --ease-out:cubic-bezier(.2,.8,.2,1); --dur-fast:150ms;
+ --study-width:390px;
+}
